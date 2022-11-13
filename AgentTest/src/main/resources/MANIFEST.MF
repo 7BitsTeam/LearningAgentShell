@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Agent-Class: AgentTest
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+
+
